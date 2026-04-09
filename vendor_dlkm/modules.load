@@ -283,3 +283,13 @@ msm-eva.ko
 msm-mmrm.ko
 mmrm_test_module.ko
 msm_video.ko
+sched-walt.ko
+secure_buffer.ko
+smem.ko
+socinfo.ko
+spmi-pmic-arb.ko
+stub-regulator.ko
+thermal_pause.ko
+tmecom-intf.ko
+ufs_qcom.ko
+ufshcd-crypto-qti.ko
